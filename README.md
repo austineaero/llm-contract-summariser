@@ -55,7 +55,7 @@ llm-contract-extractor-demo/
    ```bash
    git clone https://github.com/<your-username>/llm-contract-summariser.git
    cd llm-contract-summariser
-````
+   ```
 
 2. **Set up your environment:**
 
