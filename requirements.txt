@@ -1,0 +1,6 @@
+pandas
+transformers==4.41.1
+torch
+ipykernel
+notebook
+tqdm

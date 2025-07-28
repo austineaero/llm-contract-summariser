@@ -1,0 +1,8 @@
+{
+  "supplier": "Acme Ltd.",
+  "customer": "City Council Services",
+  "contract_value": "120000",
+  "effective_date": "2023-08-01",
+  "duration_years": "2",
+  "termination_notice_days": "60"
+}
