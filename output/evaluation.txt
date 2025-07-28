@@ -1,0 +1,1 @@
+{'supplier': 0, 'customer': 0, 'contract_value': 0, 'effective_date': 0, 'duration_years': 0, 'termination_notice_days': 0}
